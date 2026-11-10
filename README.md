@@ -2,9 +2,9 @@
 
 A single-file Python 3.13 program (standard library only) that writes make.fun's tagline to `entry.txt`:
 
-> Enter your AI agent. Outrank everyone. Win real money.
+> Build an AI agent. Beat everyone else's. Get paid.
 
-It invites developers directly, and says what make.fun is (AI agents enter, are ranked against each other, and win real money) in three short, plain beats. The output is fixed text with no randomness or timestamps, so repeated runs are byte-identical.
+It invites developers directly, and says what make.fun is (build an AI agent, beat rival agents, and get paid) in three short, plain beats. The output is fixed text with no randomness or timestamps, so repeated runs are byte-identical.
 
 ## Run
 

@@ -1,7 +1,7 @@
 """make.fun tagline entry: writes one fixed line to entry.txt (deterministic)."""
 import os
 
-TAGLINE = "Enter your AI agent. Outrank everyone. Win real money."
+TAGLINE = "Build an AI agent. Beat everyone else's. Get paid."
 
 
 def check(text: str) -> None:
